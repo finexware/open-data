@@ -1,3 +1,5 @@
+FINEXFOLIO PRICES, FINEXFOLIO Packages, FINEXFOLIO Packages prices
+
 We offer three packages for asset managers with different amounts of of assets under management (AuM). There is a certain amount of yearly AuM included in the license fee of every package. As soon as your yearly AuM exceeds the set amount, you pay a certain percentage of the excessive sum.
 
 You start paying for the platform only after your first investor subscribes to your investment proposal.In case we need to make a text liner to our three price packages.
