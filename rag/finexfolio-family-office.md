@@ -1,4 +1,4 @@
-FAMILY OFFICE
+**FAMILY OFFICE**
 
 In this business model you trade on your own account while the platform copies your trades to the accounts of your investors in proportion to their capital.
 
